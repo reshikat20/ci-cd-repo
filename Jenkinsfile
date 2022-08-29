@@ -1,6 +1,6 @@
 pipeline {
  environment {
- imagename = “pavi/jenkins-docker”
+ imagename = “pavithraravi7/jenkins-docker”
  registryCredential = ‘pavithraravi7’
  dockerImage = ‘’
  }
